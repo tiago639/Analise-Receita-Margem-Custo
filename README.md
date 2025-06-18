@@ -60,9 +60,8 @@ Este projeto tem como foco principal a criação de um painel em Power BI para:
 
 2.Extraia os arquivos de dados necessários:
 
-CadastroProdutos.xlsx
-
-BaseVendasCompleta.xlsx
+🔸CadastroProdutos.xlsx
+🔸BaseVendasCompleta.xlsx
 
 🔸 Coloque ambos os arquivos na mesma pasta onde está o .pbix
 🔸 Certifique-se de que os nomes dos arquivos estejam corretos e sem espaços extras.
