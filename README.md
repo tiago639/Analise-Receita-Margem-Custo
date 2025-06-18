@@ -53,7 +53,24 @@ Este projeto tem como foco principal a criação de um painel em Power BI para:
 ---
 
 ## 🚀 Como Usar
-
+```bash
 1. Faça o download ou clone este repositório:
-   ```bash
+
    git clone https://github.com/tiago639/Analise-Receita-Margem-Custo.git
+
+2.Extraia os arquivos de dados necessários:
+
+CadastroProdutos.xlsx
+
+BaseVendasCompleta.xlsx
+
+🔸 Coloque ambos os arquivos na mesma pasta onde está o .pbix
+🔸 Certifique-se de que os nomes dos arquivos estejam corretos e sem espaços extras.
+
+3.Abra o Power BI Desktop e carregue o arquivo:
+
+🔸Analise_Receita_Margem_Custo.pbix
+
+4.Atualize as conexões de dados se necessário (Power BI pedirá para confirmar o caminho dos arquivos);
+
+5.Explore o painel interagindo com filtros e visualizações.
