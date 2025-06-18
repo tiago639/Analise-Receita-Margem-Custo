@@ -19,7 +19,7 @@ Este projeto tem como foco principal a criação de um painel em Power BI para:
 
 ## 🖼️ Preview do Relatório
 
-<img src="relatorio.png" alt="Print do Power BI" width="100%">
+<img src="Margeem.png" alt="Print do Power BI" width="100%">
 
 > 📎 O print do relatório deve ser salvo na pasta raiz como `relatorio.png`. Você pode atualizar com outros ângulos ou páginas do relatório, se quiser.
 
