@@ -58,10 +58,6 @@ Este projeto tem como foco principal a criação de um painel em Power BI para:
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 
-## 👤 Autor
-
-**Tiago Fonseca**
-
 ## 🚀 Como Usar
 ```bash
 1. Faça o download ou clone este repositório:
@@ -83,4 +79,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 4.Atualize as conexões de dados se necessário (Power BI pedirá para confirmar o caminho dos arquivos);
 
 5.Explore o painel interagindo com filtros e visualizações.
+```
+## 👤 Autor
 
+**Tiago Fonseca**
