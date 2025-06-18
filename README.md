@@ -51,6 +51,11 @@ Este projeto tem como foco principal a criação de um painel em Power BI para:
 - Power Query para ETL (Extração, Transformação e Carga de Dados)
 
 ---
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 🚀 Como Usar
 ```bash
@@ -73,3 +78,4 @@ Este projeto tem como foco principal a criação de um painel em Power BI para:
 4.Atualize as conexões de dados se necessário (Power BI pedirá para confirmar o caminho dos arquivos);
 
 5.Explore o painel interagindo com filtros e visualizações.
+
